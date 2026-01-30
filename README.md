@@ -9,6 +9,8 @@ The app follows an **offline‑first architecture** where **Room Database is the
 ## Repository Link
 
 - GitHub: `https://github.com/palvishalcap/Animeflix`
+## Video Demo
+- https://drive.google.com/drive/folders/1lcHrvDEblzH_pBnR86tE-N5lnRkpDpH9?usp=sharing
 
 ---
 
