@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Animeflix</string>
+    <string name="empty_anime_list_message">No top anime found, see you soon!</string>
+</resources>
